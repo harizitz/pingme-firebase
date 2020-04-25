@@ -1,4 +1,4 @@
-# PingMe -  A platform to find people based on hobby
+## PingMe -  A platform to find people based on hobby(firebase)
 
 A small web application that unites people based on their interest.
 
