@@ -9,7 +9,7 @@ The user can :
 - If interested they can contact with the information provided
 
 
- **[🌐 VISIT WEBSITE ](https://pingme.now.sh "VISIT WEBSITE 🌐")**
+
 ## In the website
 - Google authentication using firebase
 - Database using firebase Realtime database
